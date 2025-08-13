@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Small helper styles to match screenshot spacing */
+body {
+    @apply bg-gray-50;
+}
